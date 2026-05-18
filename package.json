@@ -1,0 +1,16 @@
+{
+  "name": "benefit-eligibility-evaluator",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "eligibility",
+    "edi-834",
+    "enrollment",
+    "benefit-coverage"
+  ],
+  "author": "Kuncham Venkata Satya Manikanta",
+  "license": "MIT"
+}
